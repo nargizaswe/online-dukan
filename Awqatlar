@@ -1,1 +1,32 @@
-
+<! DOCTYPE html>
+ <html>
+     <head></head>
+     <body>
+         <p>Meniñ  tagʻamlarim</p>
+         <ul>
+             <li>palaw</li>
+             <li>Samsa</li>
+             <li>Baliq sorpa</li>
+         </ul>
+         <hr>
+         <h3>Jaris jeñimpazlari</h3>
+         <ol>
+             <li>Olimov.A</li>
+             <li>Karimov.B</li>
+             <li>Hakimov.S</li>
+         </ol>
+         
+         <p>Kunlik rejem</p>
+         <ol>
+             <li>Azangi reje
+             <ol>
+                 <li>Uyqidan turiw</li>
+             </ol>
+             </li>
+            
+            
+            
+         </ol>
+         
+     </body>
+ </html>
